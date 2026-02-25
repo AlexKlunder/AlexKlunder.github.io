@@ -1,1 +1,1 @@
-I have created a "good" and bad css. I am still learning so I know its not the best, but this is all new to me.
+Here is my javascript assignment. I had asked chat gpt to show me how to create the code that was necisary to get the slider, and how to change the size of the box. I was not able to figure that out. I am getting more comfortable, but this is all new to me so I am just trying to learn small things as I go. 
